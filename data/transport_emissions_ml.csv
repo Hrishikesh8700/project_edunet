@@ -1,0 +1,16 @@
+Year,Vehicle,Emission
+2000,Road,120
+2005,Road,135
+2010,Road,150
+2015,Road,170
+2020,Road,190
+2000,Ship,80
+2005,Ship,90
+2010,Ship,105
+2015,Ship,125
+2020,Ship,145
+2000,Airplane,95
+2005,Airplane,110
+2010,Airplane,130
+2015,Airplane,155
+2020,Airplane,180
