@@ -102,7 +102,7 @@ elif section == "Vehicle Comparison":
         title="Fuel & CO₂ Comparison Across Transport Modes"
     )
     st.plotly_chart(fig, use_container_width=True)
-
+'''
 # =====================================================
 # 🌍 GENERAL TRENDS TAB
 # =====================================================
@@ -169,7 +169,7 @@ elif section == "ML Prediction":
         "Prediction generated using a pre-trained Linear Regression model "
         "based on historical Kaggle transport emission data."
     )
-
+'''
 # =====================================================
 # ℹ️ ABOUT TAB
 # =====================================================
